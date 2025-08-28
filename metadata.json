@@ -1,0 +1,8 @@
+{
+  "name": "Caulk Boss Pro",
+  "description": "A comprehensive, AI-powered application for concrete caulking companies. Features include AI-powered estimation, crew dispatch and GPS tracking, invoicing, and a real-time walkie-talkie for team communication.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
